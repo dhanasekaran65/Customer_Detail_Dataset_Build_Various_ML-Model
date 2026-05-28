@@ -37,8 +37,8 @@ pip install pandas numpy matplotlib scikit-learn openpyxl
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   gh repo clone dhanasekaran65/Customer_Detail_Dataset_Build_Various_ML-Model
+   cd Customer_Detail_Dataset_Build_Various_ML-Model
    ```
 2. Place `customer_retail.csv.xlsx` in the project root.
 3. Launch Jupyter and open the notebook
